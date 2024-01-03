@@ -1,4 +1,4 @@
 # Sachinsaini
-THIS IS MY FIRST GIT REPOSITORY
+This is my first git Repository
 <br>
-AUTHER-SACHIN SAINI
+Auther-Sachin saini
